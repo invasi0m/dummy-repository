@@ -1,0 +1,7 @@
+feature: ['enhancement/*', 'feature/*']
+documentation: ['docs/*', 'doc/*']
+breaking-change: ['breaking/*', 'break/*']
+bug: ['bug/*', 'fix/*']
+tests: ['test/*', 'tests/*']
+dependency-update: ['dep/*', 'dependency/*', 'dependency-update/*']
+scala-steward: ['update/*']
